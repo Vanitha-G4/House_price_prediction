@@ -1,4 +1,4 @@
-## Proble statement
+## Problem statement
   This project focuses on predicting house prices using machine learning techniques. The dataset contains various features about houses, such as location, sqft, amenities,   
   etc. The goal of the project is to build a predictive model for estimating house prices based on these features.
 
